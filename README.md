@@ -1,7 +1,5 @@
 # Heart Disease Prediction 🫀
 
-![Project Logo](https://www.google.com/url?sa=i&url=https%3A%2F%2Fstock.adobe.com%2Fsearch%2Fimages%3Fk%3Dheart%2Blogo&psig=AOvVaw3yTkvbITtAOI1ewk5lvZCL&ust=1737730603443000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCPDT4I2NjIsDFQAAAAAdAAAAABAEBackground.jpg)
-
 A machine learning-based web application to predict the likelihood of heart disease based on user inputs such as age, chest pain type, and maximum heart rate achieved.
 
 ---
