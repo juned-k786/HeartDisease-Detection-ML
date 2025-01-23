@@ -61,7 +61,7 @@ Run the Flask application:
 bash
 Copy
 python app.py
-Open your browser and navigate to http://127.0.0.1:5000.
+Open your browser and navigate to https://heartdisease-pwnu.onrender.com/
 
 Usage 🖥️
 Enter the required details:
